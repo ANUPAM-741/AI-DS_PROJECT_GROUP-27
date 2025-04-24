@@ -32,11 +32,5 @@ TensorFlow / PyTorch
 
 NumPy, Matplotlib, etc.
 
-## 👥 Contributors
+📄 Meet the [Contributors](CONTRIBUTORS.md)
 
-<a href="https://github.com/yourusername">
-  <img src="https://github.com/yourusername.png" width="50" height="50" alt="yourusername"/>
-</a>
-<a href="https://github.com/teammate1">
-  <img src="https://github.com/teammate1.png" width="50" height="50" alt="teammate1"/>
-</a>
