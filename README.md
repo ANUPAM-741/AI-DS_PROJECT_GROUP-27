@@ -17,7 +17,7 @@ RNN (e.g., LSTM) or Transformer for generating captions
 
 📊 Dataset
 We used a labeled dataset like MS COCO or Flickr8k, which contains thousands of images with corresponding human-written captions.
-Link to the data set: DATA_SET[https://www.kaggle.com/datasets/adityajn105/flickr8k]
+Link to the data set: DATA_SET (https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
 🚀 How to Run
 Open Image_Captioning_Training.ipynb to train the model.
