@@ -32,4 +32,11 @@ TensorFlow / PyTorch
 
 NumPy, Matplotlib, etc.
 
-**![GitHub contributors](https://img.shields.io/github/contributors/ANUPAM-741/AI-DS_PROJECT_GROUP-27)**
+## 👥 Contributors
+
+<a href="https://github.com/yourusername">
+  <img src="https://github.com/yourusername.png" width="50" height="50" alt="yourusername"/>
+</a>
+<a href="https://github.com/teammate1">
+  <img src="https://github.com/teammate1.png" width="50" height="50" alt="teammate1"/>
+</a>
