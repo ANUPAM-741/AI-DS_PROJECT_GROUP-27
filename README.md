@@ -32,5 +32,5 @@ TensorFlow / PyTorch
 
 NumPy, Matplotlib, etc.
 
-📄 Meet the [Contributors](CONTRIBUTORS.md)
+📄 Meet the [CONTRIBUTERS](CONTRIBUTORS.md)
 
