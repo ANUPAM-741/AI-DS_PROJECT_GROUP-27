@@ -16,7 +16,7 @@ CNN (e.g., InceptionV3/ResNet) for extracting image features
 RNN (e.g., LSTM) or Transformer for generating captions
 
 📊 Dataset
-We used a labeled dataset like MS COCO or Flickr8k, which contains thousands of images with corresponding human-written captions.
+We used a labeled dataset like Flickr8k, which contains thousands of images with corresponding human-written captions.
 
 Link to the data set: [DATA_SET](https://www.kaggle.com/datasets/adityajn105/flickr8k)
 
